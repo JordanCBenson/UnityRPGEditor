@@ -1,32 +1,12 @@
 {
-  "displayName": "[Package Name]",
-  "author": "Quin Henshaw",
-  "version": "1.0.0",
-  "name": "com.qhenshaw.[packagename]",
+  "displayName": "[Unity RPG Editor]",
+  "author": "Jordan Benson",
+  "version": "0.0.0",
+  "name": "com.jordancbenson.unityrpgeditor",
   "documentationUrl": "https://github.com/qhenshaw/[repourl]",
   "changelogUrl": "https://github.com/qhenshaw/[repourl]/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/qhenshaw/[repourl]/blob/main/LICENSE.md",
-  "description": "[Description here]",
-  "unity": "2020.1",
-  "dependencies": {
-    "com.unity.2d.sprite": "1.0.0",
-	"com.unity.ugui": "1.0.0"
-  },
-  "samples": [
-	{
-      "displayName": "[Sample 1 display name]",
-      "description": "[Sample 1 description]",
-      "path": "Samples~/[Sample1Location]"
-    },
-    {
-      "displayName": "[Sample 2 display name]",
-      "description": "[Sample 2 description]",
-      "path": "Samples~/[Sample2Location]"
-    },
-	{
-      "displayName": "[Sample 3 display name]",
-      "description": "[Sample 3 description]",
-      "path": "Samples~/[Sample3Location]"
-    }
-  ]
+  "description": "A RPG data editor system for Unity",
+  "unity": "6000.0"
+  
 }
